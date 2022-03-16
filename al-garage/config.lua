@@ -197,52 +197,52 @@ Config.Garages = {
 		}, 	
 	},
 	KartelgangGarage = {
-		Pos = {x= -16.88, y= -1411.21, z=29.31 },
+		Pos = {x = -16.88,y = -1411.21,z = 29.31 },
 		Marker = { w= 1.5, h= 1.0,r = 204, g = 204, b = 0},
 		Name = _U('KartelgangGarage'),
 		HelpPrompt = _U('open_car_garage'),
 		SpawnPoint = {
-			Pos = {x= -11.42, y= -1408.18, z= 29.31 },
+			Pos = {x = -11.42,y = -1408.18,z = 29.31 },
 			Heading = 319.56,
 			Marker = { w= 1.5, h= 1.0,r=0,g=255,b=0},
 			HelpPrompt = _U('spawn_car')
 		},
 		DeletePoint = {
-			Pos = {x= -16.28, y= -1404.61, z= 29.32 },
+			Pos = {x= -16.28,y = -1404.61,z = 29.32 },
 			Marker = { w= 1.5, h= 1.0,r=255,g=0,b=0},
 			HelpPrompt = _U('store_car')
 		}, 	
 	},
 	LegionSquareGarage = {
-		Pos = {x= 211.88, y= -1411.21, z= 29.31 },
+		Pos = {x = 211.88,y = -1411.21,z = 29.31 },
 		Marker = { w= 1.5, h= 1.0,r = 204, g = 204, b = 0},
 		Name = _U('LegionSquareGarage'),
 		HelpPrompt = _U('open_car_garage'),
 		SpawnPoint = {
-			Pos = {x= 229.43, y= -802.74, z= 30.55 },
+			Pos = {x = 229.43,y = -802.74,z = 30.55 },
 			Heading = 161.96,
 			Marker = { w= 1.5, h= 1.0,r=0,g=255,b=0},
 			HelpPrompt = _U('spawn_car')
 		},
 		DeletePoint = {
-			Pos = {x= 211.66, y= -797.45, z= 30.86 },
+			Pos = {x = 211.66,y = -797.45,z = 30.86 },
 			Marker = { w= 1.5, h= 1.0,r=255,g=0,b=0},
 			HelpPrompt = _U('store_car')
 		}, 	
 	},
 	PoizenGarage = {
-		Pos = {x= -1465.47, y= -21.47, z= 54.65 },
+		Pos = {x = -1465.47,y = -21.47,z = 54.65 },
 		Marker = { w= 1.5, h= 1.0,r = 204, g = 204, b = 0},
 		Name = _U('PoizenGarage'),
 		HelpPrompt = _U('open_car_garage'),
 		SpawnPoint = {
-			Pos = {x= -1459.99, y= -26.67, z= 54.67 },
+			Pos = {x = -1459.99,y = -26.67,z = 54.67 },
 			Heading = 231.48,
 			Marker = { w= 1.5, h= 1.0,r=0,g=255,b=0},
 			HelpPrompt = _U('spawn_car')
 		},
 		DeletePoint = {
-			Pos = {x= -1467.06, y= -27.97, z= 54.67 },
+			Pos = {x = -1467.06,y = -27.97,z = 54.67 },
 			Marker = { w= 1.5, h= 1.0,r=255,g=0,b=0},
 			HelpPrompt = _U('store_car')
 		}, 	
